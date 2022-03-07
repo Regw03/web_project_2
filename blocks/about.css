@@ -51,7 +51,7 @@
 
 .about__circle_animation_blurred{
     transform-origin: center;
-    animation: pulsate 1.3s ease-out 0s infinite
+    animation: pulsate 1.3s ease-out 0s infinite;
 }
 
 @keyframes pulsate {

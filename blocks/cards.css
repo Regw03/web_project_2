@@ -1,6 +1,6 @@
 .menu__cards{
     display: flex;
-    box-sizing: border-box;   
+    box-sizing: border-box;  
     padding: 30px 24px 54px;
     flex-wrap: wrap;
     gap: 100px;
