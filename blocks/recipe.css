@@ -44,7 +44,7 @@
     list-style: none;
     margin-top: 0;
     margin-bottom: 24px;
-    border: none
+    border: none;
 }
 
 .recipes__video-iframe{  
@@ -53,7 +53,7 @@
 }
 
 .recipes__video-caption{
-    width:480px; 
+    width:480px;
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
