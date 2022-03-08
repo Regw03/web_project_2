@@ -54,6 +54,7 @@
   }
   
   .header__footer {
+    color: #838383;
     position: absolute;
     left: 0;
     bottom: 40px;

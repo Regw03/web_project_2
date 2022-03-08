@@ -1,12 +1,3 @@
-.menu__cards{
-    display: flex;
-    box-sizing: border-box;
-    padding: 30px 24px 54px;
-    flex-wrap: wrap;
-    gap: 100px;
-    justify-content: center;
-}
-
 .card{
     width: calc(50% - 50px);
     max-width: 600px;
@@ -39,6 +30,7 @@
     align-items: baseline;
     margin-bottom: 16px;
 }
+
 .card__list-item:last-of-type{
     margin-bottom: 0px;
 }

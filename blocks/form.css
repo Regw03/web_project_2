@@ -7,11 +7,11 @@
 }
 
 .form__fieldset{
+    Margin: 0;
     display: flex;
     justify-content: center;
     flex-direction: column;
     border: none;
-    border: 1px solid red;
     padding: 0;
 }
 
@@ -32,7 +32,10 @@
     line-height: 20px;
     align-items: center;
     margin: auto auto 8px 0;
-    border: 1px solid red;
+}
+
+.form__lable:last-of-type{
+    margin-bottom: 0;
 }
 
 .form__input{
@@ -45,10 +48,11 @@
     border-radius: 4px;
     margin-bottom: 32px;
     padding: 10px;
-    border: 1px solid red;
 }
 
 .form__button{
+    border: none;
+    padding: 0;
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
