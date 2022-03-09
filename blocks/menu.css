@@ -1,49 +1,48 @@
-.menu{
-    padding-top: 100px;
-    padding-bottom: 100px;
-    background-color: #0a2750;
-    background-image: url(../images/background_menu.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.menu {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #0a2750;
+	background-image: url(../images/background_menu.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
-.menu__title{
-    margin-top: 0;
-    color: #FFFFFF;
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 44px;
-    line-height: 52px;
-    text-align: center;
-    margin-bottom: 0;
+.menu__title {
+	margin-top: 0;
+	color: #FFFFFF;
+	font-family: Inter, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 52px;
+	text-align: center;
+	margin-bottom: 0;
 }
 
-.menu__subtitle{
-    color: #FFFFFF;
-    font-family: "Noto Serif", 'Times New Roman', serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 780px;
-    display: flex;
-    text-align: center;
-    margin-bottom: 100px;
+.menu__subtitle {
+	color: #FFFFFF;
+	font-family: "Noto Serif", 'Times New Roman', serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 24px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 780px;
+	display: flex;
+	text-align: center;
+	margin-bottom: 100px;
 }
 
-.menu__cards{
-    display: flex;
-    box-sizing: border-box;
-    flex-wrap: wrap;
-    gap: 100px;
-    justify-content: center;
+.menu__cards {
+	display: flex;
+	box-sizing: border-box;
+	flex-wrap: wrap;
+	gap: 100px;
+	justify-content: center;
 }
-
 

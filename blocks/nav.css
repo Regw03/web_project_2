@@ -1,25 +1,25 @@
 .nav {
-    display: flex;
-    justify-content: flex-end;
-   
+	display: flex;
+	justify-content: flex-end;
 }
 
 .nav__links {
-    display: flex;
-    align-items: center;
-    column-gap: 20px;  
-  }
-  
-  .nav__link {
-    color: #000000;
-    text-decoration: none;
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
-  }
+	display: flex;
+	align-items: center;
+	column-gap: 20px;
+}
 
-  .nav__link:hover {
-    color: #2F80ED;
-  }
+.nav__link {
+	color: #000000;
+	text-decoration: none;
+	font-family: Inter, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+    transition: all 1s ease-out;
+}
+
+.nav__link:hover {
+	color: #2F80ED;
+}
